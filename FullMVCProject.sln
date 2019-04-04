@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullMVCProject", "FullMVCProject\FullMVCProject.csproj", "{0D9457F3-5247-4A57-8748-241AE5867D1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Nite", "FullMVCProject\5Nite.csproj", "{0D9457F3-5247-4A57-8748-241AE5867D1F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullMVCProject.Tests", "FullMVCProject.Tests\FullMVCProject.Tests.csproj", "{6024DFA7-AA2A-4429-8BB8-0C333B4860AA}"
 EndProject

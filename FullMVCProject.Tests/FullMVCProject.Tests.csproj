@@ -99,9 +99,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FullMVCProject\FullMVCProject.csproj">
+    <ProjectReference Include="..\FullMVCProject\5Nite.csproj">
       <Project>{0D9457F3-5247-4A57-8748-241AE5867D1F}</Project>
-      <Name>FullMVCProject</Name>
+      <Name>5Nite</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
